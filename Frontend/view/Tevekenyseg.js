@@ -15,7 +15,7 @@ class Tevekenyseg{
             
         }
        
-
+        txt+= `</select>`
         this.#szuloElem.append(txt);
     }
 }
